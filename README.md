@@ -1,6 +1,7 @@
-# coronavirus_project
+# Coronavirus Flutter Project
 
-A new Flutter project.
+I learned how to make a covid19 case tracking application and learned how to use REST APIs in flutter. Just 4 fun :).
+I learned from the udemy course.
 
 ## Getting Started
 
